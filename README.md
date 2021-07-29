@@ -1,6 +1,6 @@
 ### Salve Rapaziada, Fehzin na voz.
 
-- 🔭 Estagiando(aprendendo) com C#, JS, Angualar E SQL.
+- 🔭 Estagiando(aprendendo) com C#, JS, Angular E SQL.
 - 🌱 Estudando JS / C#
 <div>
   <a href="https://github.com/Feh-Soldati">
